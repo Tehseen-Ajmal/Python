@@ -1,6 +1,6 @@
 from art import tprint
 
-# Transliterater By TEHSEEN AJMAL 2022-CE-53
+# Transliterater By TEHSEEN AJMAL (Assignment)
 # This transliterator can transliterate a sentence not only a single word
 """this Roman urdu to urdu Transliterator is not perfect but can easily translate double letters with single sound
  like,kh,ch,th,dh,gh,xh,sh,bh,ph,etc_______"""
