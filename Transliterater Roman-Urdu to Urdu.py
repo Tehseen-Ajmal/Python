@@ -12,7 +12,6 @@ from art import tprint
 # doodh : دودھ
 # shukria : شُکریا
 # ghazal : غَزَل
-# khaalid : خالد
 # kahaan gai thay : کَہاں گے تھے
 
 lang2 = {'5': '5', '3': '3', '': '', 'آ': 'aa', 'ا': 'a', 'ب': 'b', 'ت': 't', 'پ': 'p', 'ٹ': 't', 'ث': 's', 'ج': 'j',
@@ -547,14 +546,9 @@ following are the sample words because urdu with aeraab is difficult to right th
 by putting these in input.
 # _samples_:
        تحسین اَجمَل
-       خالِد بِن ولید بِن وکیل بِن مُغیرہ بِن مُسکَان
        ایک عظیم شَخص
        شُکریہ
-       صُبح بَخیر
        خُدا حافِظ
-       یہ اُردُو سے اَنگَریزی تَرجُمہ ہے
-       آج بارِش ہو رہی ہے
-       کیا آپ کا نام احمَد ہے
 aeraabs are compulsory to make this code work
 '''
 """ please remove the '#' to give input and cut the line 14"""
@@ -647,8 +641,6 @@ print('\033[1mIMPORTANT FOR URDU:\033[0m\n',
 print('\n', "\033[1;36m" + '-' *66," EXAMPLES ",'-'*66+ "\033[0m",'\n')
 
 urdu('تحسین اَجمَل')
-urdu('خالِد بِن ولید بِن وکیل بِن مُغیرہ بِن مُسکَان')
-urdu('یہ اُردُو سے اَنگَریزی تَرجُمہ ہے')
 urdu('خُدا حافِظ')
 
 print('\033[1mIMPORTANT MESSAGE:\033[0m\n',
